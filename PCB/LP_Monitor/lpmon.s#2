@@ -2041,7 +2041,7 @@ naming: grid - package width</description>
 <instances>
 <instance part="U1" gate="A" x="63.5" y="63.5" smashed="yes">
 <attribute name="NAME" x="57.9374" y="85.0138" size="2.0828" layer="95" ratio="10" rot="SR0"/>
-<attribute name="VALUE" x="58.5216" y="32.4612" size="2.0828" layer="96" ratio="10" rot="SR0"/>
+<attribute name="VALUE" x="53.4416" y="32.4612" size="2.0828" layer="96" ratio="10" rot="SR0"/>
 </instance>
 <instance part="3V3_REG" gate="G1" x="-35.56" y="116.84" smashed="yes">
 <attribute name="NAME" x="-43.18" y="125.73" size="1.778" layer="95"/>
